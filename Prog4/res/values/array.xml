@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string-array name="colors">
+	    <item>Red</item>
+	    <item>Green</item>
+	    <item>Blue</item>
+	    
+	    <item>Yellow</item>
+	    <item>Pink</item>
+	    <item>Magenta</item>
+	</string-array>  
+	
+	<string-array name="fonts">
+	    <item>Serif</item>
+	    <item>Sans Serif</item>
+	    <item>Monospace</item>
+	</string-array>
+</resources>

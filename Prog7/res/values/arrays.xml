@@ -1,0 +1,16 @@
+<resources>
+    <string-array name="shapes">
+        <item>Rectangle</item>
+        <item>Circle</item>
+        <item>Square</item>
+        <item>Oval</item>
+    </string-array>
+    
+    <string-array name="colors">
+        <item>Red</item>
+        <item>Green</item>
+        <item>Blue</item>
+        <item>Pink</item>
+        <item>Yellow</item>
+    </string-array>
+</resources>

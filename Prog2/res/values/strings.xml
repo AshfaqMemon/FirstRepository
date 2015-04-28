@@ -1,0 +1,14 @@
+<resources>
+
+    <string name="app_name">Prog2</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">Shape Spinner</string>
+
+    
+    <string-array name="shapes">
+        <item>Rectangle</item>
+        <item>Circle</item>
+        <item>Rounded Rectangle</item>
+    </string-array>
+</resources>

@@ -1,0 +1,37 @@
+<html>
+<head>
+	<script language="javascript">
+	
+	function sintrest()
+	{
+	var i=parseInt(document.form1.num1.value);
+	var p=parseInt(document.form1.num2.value);
+	var n=parseInt(document.form1.num3.value);
+	var b=(i*p*n)/100;
+	document.form1.num4.value=b;
+	}
+	</script>
+</head>
+<body>
+	<form name="form1">
+	Enter I :
+	<input type="text" name="num1">
+	<br>
+
+	Enter P :
+	<input type="text" name="num2">
+	<br>
+	
+	Enter N :
+	<input type="text" name="num3">
+	<br>
+
+	<input type="button" value="Calculate" size="5" OnClick="sintrest();">
+	<br>
+	
+	Simple Intrest  is:
+	<input type="text" name="num4">
+	
+	</form>
+</body>
+</html>

@@ -1,0 +1,10 @@
+<resources>
+
+    <string name="app_name">Prog3</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">Login</string>
+
+    <string name="username">ashfaq</string>
+    <string name="password">ashfaq</string>
+</resources>

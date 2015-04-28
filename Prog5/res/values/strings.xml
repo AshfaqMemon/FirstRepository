@@ -1,0 +1,14 @@
+<resources>
+
+    <string name="app_name">Prog5</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">Animation</string>
+
+    <string-array name="listitems">
+        <item>Rotate</item>
+        <item>Scale</item>
+        <item>Alpha</item>
+        <item>Translate</item>
+    </string-array>
+</resources>
